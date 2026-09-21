@@ -83,6 +83,7 @@ git clone https://github.com/tataCrayon/app-market-research.git .agents/skills/a
 SKILL.md                                    主流程 / 输出模板 / 红线 / 与其他 Skill 的关系
 references/three-platform-constraints.md    三端七查清单 + 查证入口（故意不写死政策数字）
 references/research-sources.md              中国移动端数据源 + 检索语句模板
+examples/家庭药箱小程序-立项调研报告.md        真实产出样例（含明确判决与 19 条带链接证据）
 ```
 
 > 参考文件**故意不写具体政策数字**——任何写死的数字都会在下一次调研时变成假证据。
@@ -98,6 +99,11 @@ app-market-research（要不要做 / 哪端做 / 有没有硬阻塞）
 
 - 通用技术 / 流程 / 工具想法体检 → 用 `idea-vetting`，不是本 Skill（本 Skill 只管移动端 / 小程序立项）。
 - 已决定要做 → `fullstack-spec`、`design-director`、`ui-craft`。
+
+## 更多
+
+本 Skill 是多 Skill 调研合集 [market-research](https://github.com/tataCrayon/market-research) 的一员——
+那里有仓库契约（`AGENTS.md`）、写新调研 Skill 的方法论（`docs/SKILL-AUTHORING.md`）与实证记录（`docs/lessons-learned.md`）。
 
 ## License
 
